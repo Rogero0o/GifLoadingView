@@ -5,9 +5,9 @@ Thanks for the idea.<br>
 
 I like all the animation in that webpage , but it's so hard to develop all of them .<br>
 
-Finally , i found this way , it's simple , but it work perfect.
+Finally , i find this way , it's simple , but it work perfect.
 
-### Look like
+## Look like
  
 ![](http://ww4.sinaimg.cn/mw690/a695acdegw1f3deysrt4gg204s04x17r.gif) ![](http://ww3.sinaimg.cn/small/a695acdegw1f3deytb648g204s04xwqe.gif) ![](http://ww3.sinaimg.cn/small/a695acdegw1f3deytpvo0g204s04x450.gif) <br>
 
@@ -59,6 +59,13 @@ compile project(':gifloadinglibrary')
                     }
                 });
     }
+
+## Dependencies
+
+This project use this libraries ~ Thanks to them.
+
+  [android-gif-drawable](https://github.com/koral--/android-gif-drawable)  <br>
+  [BlurDialogFragment](https://github.com/tvbarthel/BlurDialogFragment)
 
 ## TODO
 

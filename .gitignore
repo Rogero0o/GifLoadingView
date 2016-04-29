@@ -6,3 +6,6 @@
 .DS_Store
 /build
 /captures
+.idea/
+gifloadinglibrary/src/test/
+sample/src/test/
