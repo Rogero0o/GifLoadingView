@@ -33,10 +33,9 @@ Import this project into android studio..it's build with it.
 
 #### Gradle
 
-I will upload this project to jcenter soon.
 
 ```
-compile project(':gifloadinglibrary')
+compile 'com.roger.gifloadinglibrary:gifloadinglibrary:1.0.0'
 ```
 
 ####  config in java code
