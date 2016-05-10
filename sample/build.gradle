@@ -27,5 +27,5 @@ dependencies {
   testCompile 'junit:junit:4.12'
   compile 'com.android.support:appcompat-v7:23.2.1'
   compile 'com.android.support:recyclerview-v7:23.+'
-  compile project(':gifloadinglibrary')
+  compile 'com.roger.gifloadinglibrary:gifloadinglibrary:1.0.0'
 }

@@ -19,7 +19,16 @@ public class MainActivity extends AppCompatActivity {
       R.drawable.num5, R.drawable.num6, R.drawable.num7, R.drawable.num8, R.drawable.num9,
       R.drawable.num10, R.drawable.num11, R.drawable.num12, R.drawable.num13, R.drawable.num14,
       R.drawable.num15, R.drawable.num16, R.drawable.num17, R.drawable.num18, R.drawable.num19,
-      R.drawable.num20, R.drawable.num21, R.drawable.num22, R.drawable.num23
+      R.drawable.num20, R.drawable.num21, R.drawable.num22, R.drawable.num23, R.drawable.num24,
+      R.drawable.num25, R.drawable.num26, R.drawable.num27, R.drawable.num28, R.drawable.num29,
+      R.drawable.num30, R.drawable.num31, R.drawable.num32, R.drawable.num33, R.drawable.num34,
+      R.drawable.num35, R.drawable.num36, R.drawable.num37, R.drawable.num38, R.drawable.num39,
+      R.drawable.num40, R.drawable.num41, R.drawable.num42, R.drawable.num43, R.drawable.num44,
+      R.drawable.num45, R.drawable.num46, R.drawable.num47, R.drawable.num48, R.drawable.num49,
+      R.drawable.num50, R.drawable.num51, R.drawable.num52, R.drawable.num53, R.drawable.num54,
+      R.drawable.num55, R.drawable.num56, R.drawable.num57, R.drawable.num58, R.drawable.num59,
+      R.drawable.num60, R.drawable.num61, R.drawable.num62, R.drawable.num63, R.drawable.num64,
+      R.drawable.num65
   };
 
   private RecyclerView mRecyclerView;
@@ -39,7 +48,7 @@ public class MainActivity extends AppCompatActivity {
 
   protected void initData() {
     mDatas = new ArrayList<String>();
-    for (int i = 0; i < 24; i++) {
+    for (int i = 0; i < IDS.length; i++) {
       mDatas.add("GifLoadingView : " + i);
     }
   }
