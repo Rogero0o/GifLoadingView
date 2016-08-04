@@ -63,21 +63,21 @@ Idea from [Link](http://weibo.com/uidesign?from=myfollow_all&is_all=1) .<br>
 
 Idea from [Link](http://weibo.com/uidesign?from=myfollow_all&is_all=1) .<br>
 
-![](https://raw.githubusercontent.com/Rogero0o/GifLoadingView/master/sample/src/main/res/drawable-hdpi/num66.gif =171x164)
 
-![](https://github.com/Rogero0o/GifLoadingView/blob/master/sample/src/main/res/drawable-hdpi/num66.gif =171x164?raw=true) ![](https://github.com/Rogero0o/GifLoadingView/blob/master/sample/src/main/res/drawable-hdpi/num67.gif?raw=true =171x164) ![](https://github.com/Rogero0o/GifLoadingView/blob/master/sample/src/main/res/drawable-hdpi/num68.gif?raw=true =171x164)  <br>
+<img src="https://raw.githubusercontent.com/Rogero0o/GifLoadingView/master/sample/src/main/res/drawable-hdpi/num66.gif" width="171" height="164" /><img src="https://raw.githubusercontent.com/Rogero0o/GifLoadingView/master/sample/src/main/res/drawable-hdpi/num67.gif" width="171" height="164" /><img src="https://raw.githubusercontent.com/Rogero0o/GifLoadingView/master/sample/src/main/res/drawable-hdpi/num68.gif" width="171" height="164" />  <br>
 
-![](https://github.com/Rogero0o/GifLoadingView/blob/master/sample/src/main/res/drawable-hdpi/num69.gif?raw=true =171x164) ![](https://github.com/Rogero0o/GifLoadingView/blob/master/sample/src/main/res/drawable-hdpi/num70.gif?raw=true =171x164) ![](https://github.com/Rogero0o/GifLoadingView/blob/master/sample/src/main/res/drawable-hdpi/num71.gif?raw=true =171x164)  <br>
+<img src="https://raw.githubusercontent.com/Rogero0o/GifLoadingView/master/sample/src/main/res/drawable-hdpi/num69.gif" width="171" height="164" /><img src="https://raw.githubusercontent.com/Rogero0o/GifLoadingView/master/sample/src/main/res/drawable-hdpi/num70.gif" width="171" height="164" /><img src="https://raw.githubusercontent.com/Rogero0o/GifLoadingView/master/sample/src/main/res/drawable-hdpi/num71.gif" width="171" height="164" />  <br>
 
-![](https://github.com/Rogero0o/GifLoadingView/blob/master/sample/src/main/res/drawable-hdpi/num72.gif?raw=true =171x164) ![](https://github.com/Rogero0o/GifLoadingView/blob/master/sample/src/main/res/drawable-hdpi/num73.gif?raw=true =171x164) ![](https://github.com/Rogero0o/GifLoadingView/blob/master/sample/src/main/res/drawable-hdpi/num74.gif?raw=true =171x164)  <br>
+<img src="https://raw.githubusercontent.com/Rogero0o/GifLoadingView/master/sample/src/main/res/drawable-hdpi/num72.gif" width="171" height="164" /><img src="https://raw.githubusercontent.com/Rogero0o/GifLoadingView/master/sample/src/main/res/drawable-hdpi/num73.gif" width="171" height="164" /><img src="https://raw.githubusercontent.com/Rogero0o/GifLoadingView/master/sample/src/main/res/drawable-hdpi/num74.gif" width="171" height="164" />  <br>
 
-![](https://github.com/Rogero0o/GifLoadingView/blob/master/sample/src/main/res/drawable-hdpi/num75.gif?raw=true =171x164) ![](https://github.com/Rogero0o/GifLoadingView/blob/master/sample/src/main/res/drawable-hdpi/num76.gif?raw=true =171x164) ![](https://github.com/Rogero0o/GifLoadingView/blob/master/sample/src/main/res/drawable-hdpi/num77.gif?raw=true =171x164)  <br>
+<img src="https://raw.githubusercontent.com/Rogero0o/GifLoadingView/master/sample/src/main/res/drawable-hdpi/num75.gif" width="171" height="164" /><img src="https://raw.githubusercontent.com/Rogero0o/GifLoadingView/master/sample/src/main/res/drawable-hdpi/num76.gif" width="171" height="164" /><img src="https://raw.githubusercontent.com/Rogero0o/GifLoadingView/master/sample/src/main/res/drawable-hdpi/num77.gif" width="171" height="164" />  <br>
 
-![](https://github.com/Rogero0o/GifLoadingView/blob/master/sample/src/main/res/drawable-hdpi/num78.gif?raw=true =171x164) ![](https://github.com/Rogero0o/GifLoadingView/blob/master/sample/src/main/res/drawable-hdpi/num79.gif?raw=true =171x164) ![](https://github.com/Rogero0o/GifLoadingView/blob/master/sample/src/main/res/drawable-hdpi/num80.gif?raw=true =171x164)  <br>
+<img src="https://raw.githubusercontent.com/Rogero0o/GifLoadingView/master/sample/src/main/res/drawable-hdpi/num78.gif" width="171" height="164" /><img src="https://raw.githubusercontent.com/Rogero0o/GifLoadingView/master/sample/src/main/res/drawable-hdpi/num79.gif" width="171" height="164" /><img src="https://raw.githubusercontent.com/Rogero0o/GifLoadingView/master/sample/src/main/res/drawable-hdpi/num80.gif" width="171" height="164" />  <br>
 
-![](https://github.com/Rogero0o/GifLoadingView/blob/master/sample/src/main/res/drawable-hdpi/num81.gif?raw=true =171x164) ![](https://github.com/Rogero0o/GifLoadingView/blob/master/sample/src/main/res/drawable-hdpi/num82.gif?raw=true =171x164) ![](https://github.com/Rogero0o/GifLoadingView/blob/master/sample/src/main/res/drawable-hdpi/num83.gif?raw=true =171x164)  <br>
+<img src="https://raw.githubusercontent.com/Rogero0o/GifLoadingView/master/sample/src/main/res/drawable-hdpi/num81.gif" width="171" height="164" /><img src="https://raw.githubusercontent.com/Rogero0o/GifLoadingView/master/sample/src/main/res/drawable-hdpi/num82.gif" width="171" height="164" /><img src="https://raw.githubusercontent.com/Rogero0o/GifLoadingView/master/sample/src/main/res/drawable-hdpi/num83.gif" width="171" height="164" />  <br>
 
-![](https://github.com/Rogero0o/GifLoadingView/blob/master/sample/src/main/res/drawable-hdpi/num84.gif?raw=true =171x164) ![](https://github.com/Rogero0o/GifLoadingView/blob/master/sample/src/main/res/drawable-hdpi/num85.gif?raw=true =171x164) <br>
+
+<img src="https://raw.githubusercontent.com/Rogero0o/GifLoadingView/master/sample/src/main/res/drawable-hdpi/num84.gif" width="171" height="164" /><img src="https://raw.githubusercontent.com/Rogero0o/GifLoadingView/master/sample/src/main/res/drawable-hdpi/num85.gif" width="171" height="164" /> <br>
 
 
 ..as you see right now,wish you like it.
