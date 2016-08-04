@@ -28,7 +28,11 @@ public class MainActivity extends AppCompatActivity {
       R.drawable.num50, R.drawable.num51, R.drawable.num52, R.drawable.num53, R.drawable.num54,
       R.drawable.num55, R.drawable.num56, R.drawable.num57, R.drawable.num58, R.drawable.num59,
       R.drawable.num60, R.drawable.num61, R.drawable.num62, R.drawable.num63, R.drawable.num64,
-      R.drawable.num65
+      R.drawable.num65, R.drawable.num66, R.drawable.num67, R.drawable.num68, R.drawable.num69,
+      R.drawable.num70, R.drawable.num71, R.drawable.num72, R.drawable.num73, R.drawable.num74,
+      R.drawable.num75, R.drawable.num76, R.drawable.num77, R.drawable.num78, R.drawable.num79,
+      R.drawable.num80, R.drawable.num81, R.drawable.num82, R.drawable.num83, R.drawable.num84,
+      R.drawable.num85
   };
 
   private RecyclerView mRecyclerView;
