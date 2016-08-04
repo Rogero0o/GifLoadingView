@@ -63,6 +63,8 @@ Idea from [Link](http://weibo.com/uidesign?from=myfollow_all&is_all=1) .<br>
 
 Idea from [Link](http://weibo.com/uidesign?from=myfollow_all&is_all=1) .<br>
 
+![](https://raw.githubusercontent.com/Rogero0o/GifLoadingView/master/sample/src/main/res/drawable-hdpi/num66.gif =171x164)
+
 ![](https://github.com/Rogero0o/GifLoadingView/blob/master/sample/src/main/res/drawable-hdpi/num66.gif =171x164?raw=true) ![](https://github.com/Rogero0o/GifLoadingView/blob/master/sample/src/main/res/drawable-hdpi/num67.gif?raw=true =171x164) ![](https://github.com/Rogero0o/GifLoadingView/blob/master/sample/src/main/res/drawable-hdpi/num68.gif?raw=true =171x164)  <br>
 
 ![](https://github.com/Rogero0o/GifLoadingView/blob/master/sample/src/main/res/drawable-hdpi/num69.gif?raw=true =171x164) ![](https://github.com/Rogero0o/GifLoadingView/blob/master/sample/src/main/res/drawable-hdpi/num70.gif?raw=true =171x164) ![](https://github.com/Rogero0o/GifLoadingView/blob/master/sample/src/main/res/drawable-hdpi/num71.gif?raw=true =171x164)  <br>
