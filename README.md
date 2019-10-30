@@ -92,7 +92,7 @@ Import this project into android studio..it's build with it.
 
 
 ```
-compile 'com.roger.gifloadinglibrary:gifloadinglibrary:1.0.0'
+compile 'com.roger.gifloadinglibrary:gifloadinglibrary:1.1.1'
 ```
 
 ####  config in java code
@@ -110,7 +110,7 @@ compile 'com.roger.gifloadinglibrary:gifloadinglibrary:1.0.0'
                     @Override public void onClick(View v) {
 
                         mGifLoadingView.setImageResource(R.drawable.image);
-          				mGifLoadingView.show(getFragmentManager(), "");
+          				mGifLoadingView.show(getFragmentManager());
 
                     }
                 });
