@@ -1,18 +1,15 @@
 apply plugin: 'com.android.application'
 
 android {
-  compileSdkVersion 23
-  buildToolsVersion "23.0.3"
+  compileSdkVersion 29
+  buildToolsVersion "29.0.2"
 
   defaultConfig {
     applicationId "com.roger.gifloadingview"
-    minSdkVersion 16
-    targetSdkVersion 23
-    versionCode 1
-    versionName "1.0"
-
-    renderscriptTargetApi 19
-    renderscriptSupportModeEnabled true
+    minSdkVersion 21
+    targetSdkVersion 29
+    versionCode 110
+    versionName "1.1"
   }
   buildTypes {
     release {
@@ -23,9 +20,10 @@ android {
 }
 
 dependencies {
-  compile fileTree(include: ['*.jar'], dir: 'libs')
-  testCompile 'junit:junit:4.12'
-  compile 'com.android.support:appcompat-v7:23.2.1'
-  compile 'com.android.support:recyclerview-v7:23.+'
-  compile 'com.roger.gifloadinglibrary:gifloadinglibrary:1.0.0'
+  implementation fileTree(include: ['*.jar'], dir: 'libs')
+  testImplementation 'junit:junit:4.12'
+  implementation 'androidx.appcompat:appcompat:1.1.0'
+  implementation 'androidx.recyclerview:recyclerview:1.0.0'
+//  implementation project(path: ':gifloadinglibrary')
+  implementation 'com.roger.gifloadinglibrary:gifloadinglibrary:1.1.1'
 }

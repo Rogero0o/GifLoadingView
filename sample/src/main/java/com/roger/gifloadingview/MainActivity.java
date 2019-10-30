@@ -1,13 +1,15 @@
 package com.roger.gifloadingview;
 
 import android.os.Bundle;
-import android.support.v7.app.AppCompatActivity;
-import android.support.v7.widget.LinearLayoutManager;
-import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
+
+import androidx.appcompat.app.AppCompatActivity;
+import androidx.recyclerview.widget.LinearLayoutManager;
+import androidx.recyclerview.widget.RecyclerView;
+
 import com.roger.gifloadinglibrary.GifLoadingView;
 import java.util.ArrayList;
 import java.util.List;
@@ -70,7 +72,8 @@ public class MainActivity extends AppCompatActivity {
       holder.ImageButton.setOnClickListener(new View.OnClickListener() {
         @Override public void onClick(View v) {
           mGifLoadingView.setImageResource(IDS[position]);
-          mGifLoadingView.show(getFragmentManager(), "");
+
+          mGifLoadingView.show(getFragmentManager());
         }
       });
     }

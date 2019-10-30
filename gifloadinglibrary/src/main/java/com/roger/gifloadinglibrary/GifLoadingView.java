@@ -1,12 +1,14 @@
 package com.roger.gifloadinglibrary;
 
 import android.app.Dialog;
+import android.app.FragmentManager;
 import android.content.DialogInterface;
 import android.graphics.BitmapFactory;
 import android.graphics.Color;
 import android.graphics.drawable.GradientDrawable;
 import android.os.Bundle;
 import android.view.Gravity;
+
 import fr.tvbarthel.lib.blurdialogfragment.BlurDialogFragment;
 import pl.droidsonroids.gif.GifImageView;
 
@@ -59,6 +61,10 @@ public class GifLoadingView extends BlurDialogFragment {
   @Override public void onDismiss(DialogInterface dialog) {
     super.onDismiss(dialog);
     mDialog = null;
+  }
+
+  public void show(FragmentManager fragmentManager){
+    show(fragmentManager,"");
   }
 
   public void setImageResource(int id) {
